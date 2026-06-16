@@ -1,0 +1,25 @@
+#kompilacja
+build/
+*.o
+*.a
+*.so
+
+#gdyby przypadkiem powstał poza build/
+biletomat
+
+#logi programu
+logs/*.log
+
+#wydrukowane bilety generowane przez program
+tickets/*.txt
+
+#pliki tymczasowe edytorów
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+#pliki systemowe
+.DS_Store
+Thumbs.db

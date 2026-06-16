@@ -1,0 +1,12 @@
+Data wydruku: 2026-06-16 16:03:25
+BILET KOMUNIKACJI MIEJSKIEJ
+Kod: TCK-18603-0746
+Nazwa: Normalny 20 minut
+Cena: 4.00 zl
+Wazny: 20 minut
+Data wydruku: 2026-06-16 16:05:18
+BILET KOMUNIKACJI MIEJSKIEJ
+Kod: TCK-18716-4393
+Nazwa: Ulgowy 20 minut
+Cena: 2.00 zl
+Wazny: 20 minut

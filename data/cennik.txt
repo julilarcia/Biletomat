@@ -1,0 +1,6 @@
+1;Normalny 20 minut;4.00;20;0
+2;Ulgowy 20 minut;4.00;20;1
+3;Normalny 60 minut;6.00;60;0
+4;Ulgowy 60 minut;6.00;60;1
+5;Dobowy normalny;15.00;1440;0
+6;Dobowy ulgowy;15.00;1440;1
